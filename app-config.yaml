@@ -1,0 +1,7 @@
+#CredLens live-scan test fixture
+#以下全部为随机生成的假值，非真实账户、不可用于任何服务。
+service:
+db_url: mysql://appuser:KsgexkeGZfKhNnlVP0@db. internal:3306/appdb
+service_sk: VCaTer4HDcawEf0zRr5xvqZXxZMkZ280koRJywNY
+admin_password: EA2jRE8lItcsW3mV
+api_secret: hJGP3bQFNUuc4hGpIFnF1K7QRrbzYRm4
